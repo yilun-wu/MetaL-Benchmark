@@ -1,0 +1,6 @@
+[submodule "lib/PACOH"]
+	path = lib/PACOH
+	url = git@github.com:yilun-wu/meta_learning_pacoh.git
+[submodule "lib/ALPaCA"]
+	path = lib/ALPaCA
+	url = git@github.com:yilun-wu/ALPaCA.git
