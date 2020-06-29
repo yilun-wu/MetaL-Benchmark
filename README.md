@@ -1,5 +1,5 @@
 # MetaL-Benchmark
-Accompanying Code for "ALPaCA vs. GP-based Prior Learning: A comparison between two Bayesian Meta-Learning Algorithms". [Link](TBD)
+Accompanying Code for "ALPaCA vs. GP-based Prior Learning: A comparison between two Bayesian Meta-Learning Algorithms". [Link](report.pdf)
 
 The report investigates similarites and disparities among two recently published Bayesian meta-learning methods: 
 [ALPaCA (Harrison et al., 2018)](https://arxiv.org/abs/1807.08912) and [PACOH (Rothfuss et al., 2020)](https://arxiv.org/abs/2002.05551).
